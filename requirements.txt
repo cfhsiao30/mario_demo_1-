@@ -1,0 +1,9 @@
+streamlit
+pandas
+plotly
+numpy
+matplotlib
+wordcloud
+fpdf2
+kaleido
+Pillow
